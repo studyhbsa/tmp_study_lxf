@@ -1,3 +1,4 @@
 a text file
 and two line
 希望这次不要输入ssh配置了
+这行的目的就是用例制造：冲突的
