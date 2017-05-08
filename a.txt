@@ -1,4 +1,4 @@
 a text file
 and two line
 希望这次不要输入ssh配置了
-添加一行为的是合并时参数冲突
+两种方法需要综合考虑
